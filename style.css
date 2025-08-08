@@ -1,0 +1,59 @@
+/* Global styles */
+body {
+  background-color: #FCEBB6; /* warna latar belakang soft kuning */
+  color: #221811; /* warna teks coklat tua */
+  font-family: Verdana, Arial, sans-serif;
+  margin: 40px;
+}
+
+/* Header styling */
+header {
+  background-color: #D2B48C;
+  text-align: center;
+  padding: 20px 0;
+  border-radius: 10px;
+}
+
+/* h1 styling */
+h1 {
+  line-height: 200%;
+  font-size: 2em;
+}
+
+/* Navigation styling */
+nav {
+  text-align: center;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+nav a {
+  color: #000;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+nav a:hover {
+  color: #cc0000;
+  text-decoration: underline;
+}
+
+/* Main content layout */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff8dc;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Footer styling */
+footer {
+  background-color: #D2B48C;
+  font-size: 0.60em;
+  font-style: italic;
+  text-align: center;
+  padding: 10px 0;
+  border-radius: 10px;
+  margin-top: 40px;
+}
